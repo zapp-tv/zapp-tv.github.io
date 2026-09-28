@@ -1,1 +1,1 @@
-{"name":"Zapp IPTV","version":"1.0.0","parameter":"menu:request:interaction:menu@http://192.168.0.236:8124/msx/plugin.html"}
+{"name":"Zapp IPTV (вид MSX)","version":"1.0.0","parameter":"menu:request:interaction:menu@http://192.168.0.236:8124/msx/plugin.html"}
